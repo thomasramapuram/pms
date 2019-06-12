@@ -1,4 +1,12 @@
-# pms
+# Property Management System
+
+This is an applicaiton to manage Reservations for Hotels/Resorts. Manage their folios etc.
+
+#Important
+
+This project is in development and not yet functional.
+
+#Building the project
 
 This application was generated using JHipster 6.1.0, you can find documentation and help at [https://www.jhipster.tech/documentation-archive/v6.1.0](https://www.jhipster.tech/documentation-archive/v6.1.0).
 
