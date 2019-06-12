@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "net.ramapuram.thomas",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "6.1.0",
+    "applicationType": "monolith",
+    "baseName": "pms",
+    "packageName": "net.ramapuram.thomas",
+    "packageFolder": "net/ramapuram/thomas",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "elasticsearch",
+    "messageBroker": "kafka",
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "YmU2YzQzMTEyZjBjYzhjYjY1ZGU1NWFkYTJjY2M3MWE1OTc1MDFjZjgyOTg3NGIxM2JlNmI5MWZkYjVmMWNhMzA2NTFkNTQxNTc0ZDg4ZTg0OTBkNjhlNTNhNzFkZDFmODc3N2QyMWMzMjdiYWI4ZDVlNWY1NjdlNDU5YzY1ZTE=",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": ["en"]
+  }
+}
